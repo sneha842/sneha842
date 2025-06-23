@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome! I'm <span style="color:#ff69b4">Sneha Srivastava</span> 🌟</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sneha842/sneha842/main/coding.gif" alt="Coding Animation" width="300"/>
+  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3NTM3enF1bWM4bGo4bjl3dzJkOHpob3JyZWh3cjJkZGg1MDJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height ="200"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ### 🚪 Internships
 
 - 🧠 <strong>Data Science / ML Intern</strong> @ Tata Steel SNTI *(Ongoing)*
-  - Working on **CWUR Bearing Dataset** 
-  - Building a **Steel Plate Fault Detection Model** using ML
+  - Working on **CWRU Bearing Dataset** 
+  - Building a **Steel Plate Defect Prediction** using ML
     
 - 📊 <strong>Data Analytics & Job Simulation</strong> (Virtual Experience) @ Deloitte *(Completed)*
 - 💻 <strong>Contributing to Open Source Projects</strong> @SSOC 2024
@@ -37,13 +37,13 @@
 
 **Languages:** `Python` | `C` | `C++` | `SQL`
 
-**Libraries & Tools:** `Pandas` | `NumPy` | `OpenCV` | `Matplotlib` | `Seaborn` |
+**Libraries & Tools:** `Pandas` | `NumPy` | `OpenCV` | `Matplotlib` | `Seaborn` 
 
 **Basics of Web:** `HTML` | `CSS`
 
-**Softwares:** `Excel` | `VS Code` | `Jupyter` | Git | Github
+**Softwares:** `Excel` | `VS Code` | `Jupyter` | 'Git' | 'Github'
 
-**Learning:** GUI Development | ML Models | JS
+**Learning:** GUI Development | ML Models | JS | AI
 
 ---
 
@@ -59,7 +59,5 @@
   ✨ <i>"Dream big. Learn bigger. Grow consistently."</i> ✨
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha842&show_icons=true&theme=radical"/>
-</p>
+
 

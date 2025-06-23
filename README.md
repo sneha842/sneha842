@@ -1,61 +1,54 @@
-<h1 align="center">🌟 Welcome! I'm <span style="color:#ff69b4">Sneha Srivastava</span> 🌟</h1>
+<h1 align="center"><strong>I'm Sneha Srivastava 👩‍💻</strong></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/sneha842/sneha842/main/coding.gif" alt="Coding Animation" width="300"/>
 </p>
 
-<p align="center">
-  <strong>Data Science Intern @ Tata Steel SNTI | Python & ML Explorer | BCA Student</strong><br>
-  <em>Always Curious, Always Learning! 🚀</em>
-</p>
+<h3 align="center">Data Science Intern @ Tata Steel SNTI | Python & ML Enthusiast</h3>
 
 ---
 
-### 🚪 Internships
+### ⚙️ Internships
 
-- 🧠 <strong>Data Science / ML Intern</strong> @ Tata Steel SNTI *(Ongoing)*
-  - Working on **CWUR Bearing Dataset** 
-  - Building a **Steel Plate Defect Prediction** using ML
+- 🏭 **Data Science / ML Intern** @ Tata Steel SNTI *(Ongoing)*  
+  - Working on **CWRU Bearing Dataset**  
+  - Building a **Steel Plate Default Prediction** using Machine Learning
 
-- 💻 <strong>CodSoft Python Internship</strong> *(Completed)*
+- 🌐 **MotionCut** – Web Development Internship *(Full Stack)*
+- 📊 **Deloitte** – Data Analytics & Job Simulation (Virtual Experience)
+- 💻 **SSOC'24** – Contributed to AutoEDA & CI Workflows in Open Source
 
----
-
-### 📚 Projects
-
-- 🤔 <strong>Emotion Detection (Real-Time)</strong> – Detect emotions from webcam using CNN + OpenCV
-- ✅ <strong>To-Do List (GUI)</strong> – Task management with tkinter (In Progress)
-- ✉️ <strong>Calculator</strong> – CLI-based calculator in Python
-- ✨ <strong>Password Generator</strong> – Create secure passwords using Python logic
-- 🌊 <strong>Rock Paper Scissors</strong> – Game logic with random module
 
 ---
 
-### 🔧 Skills
+### 🚀 Projects
 
-**Languages:** `Python` | `C` | `C++` | `SQL`
-
-**Libraries & Tools:** `Pandas` | `NumPy` | `OpenCV` | `Matplotlib` | `Seaborn` | `Scikit-Learn`
-
-**Basics of Web:** `HTML` | `CSS`
-
-**Softwares:** `Excel` | `VS Code` | `Jupyter`
-
-**Learning:** GUI Development | ML Models | Data Wrangling
+- 🎭 **Emotion Detection (Real-Time)** – Webcam-based emotion recognition using CNN + OpenCV  
+- ✅ **To-Do List (GUI)** – Task manager app with Tkinter (in progress)  
+- 🧮 **Calculator** – Command-line calculator built from scratch in Python  
+- 🔐 **Password Generator** – Strong password generator using Python logic  
+- ✊ **Rock Paper Scissors** – Classic Python game with random module
 
 ---
 
-### 💬 Let's Connect!
+### 🧰 Skills
 
-- 📍 Jamshedpur, India
-- 📧 srivastavasneha895@gmail.com
-- 👤 [LinkedIn](https://www.linkedin.com/in/sneha-srivastava-00273832b)
+- **Languages:** `Python` | `C` | `C++` | `SQL`  
+- **Libraries/Tools:** `Pandas` | `NumPy` | `OpenCV` | `Matplotlib` | `Scikit-Learn` | `Tkinter`  
+- **Web Basics:** `HTML` | `CSS`  
+- **Softwares:** `Excel` | `VS Code` | `Jupyter`  
 
 ---
 
-<p align="center">
-  ✨ <i>"Dream big. Learn bigger. Grow consistently."</i> ✨
-</p>
+### 📫 Connect with Me
+
+- 📍 Jamshedpur, India  
+- 📧 Email: srivastavasneha895@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-srivastava-00273832b)
+
+---
+
+<p align="center"><i>“Dream big. Learn bigger. Grow consistently.” 🚀</i></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sneha842&show_icons=true&theme=radical"/>

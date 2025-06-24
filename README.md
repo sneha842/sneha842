@@ -26,7 +26,7 @@
 ### 📚 Projects
 
 - 🤔 <strong>Emotion Detection (Real-Time)</strong> – Detect emotions from webcam using CNN + OpenCV
-- ✅ <strong>To-Do List (GUI)</strong> – Task management with tkinter (In Progress)
+- ✅ <strong>To-Do List (GUI)</strong> – Task management with tkinter
 - ✉️ <strong>Calculator</strong> – CLI-based calculator in Python
 - ✨ <strong>Password Generator</strong> – Create secure passwords using Python logic
 - 🌊 <strong>Rock Paper Scissors</strong> – Game logic with random module

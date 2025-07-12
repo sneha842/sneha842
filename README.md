@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Data Science Intern @ Tata Steel SNTI | Python & ML Explorer | BCA Student</strong><br>
+  <strong> BCA Student | Python and ML Explorer</strong><br>
   <em>Always Curious, Always Learning! 🚀</em>
 </p>
 
@@ -13,12 +13,9 @@
 
 ### 🚪 Internships
 
-- 🧠 <strong>Data Science / ML Intern</strong> @ Tata Steel SNTI *(Ongoing)*
-  - Working on **CWRU Bearing Dataset** 
-  - Building a **Steel Plate Defect Prediction** using ML
-    
+- 🧠 <strong>Data Science / ML Intern</strong> @ Tata Steel SNTI *(Completed)*
 - 📊 <strong>Data Analytics & Job Simulation</strong> (Virtual Experience) @ Deloitte *(Completed)*
-- 💻 <strong>Contributing to Open Source Projects</strong> @SSOC 2024
+- 💻 <strong>Contributing to Open Source Projects</strong> @SSOC 2025
 - 💻 <strong>Web Dev Intern @ MotionCut</strong> *(Completed)*
 
 ---
@@ -30,6 +27,12 @@
 - ✉️ <strong>Calculator</strong> – CLI-based calculator in Python
 - ✨ <strong>Password Generator</strong> – Create secure passwords using Python logic
 - 🌊 <strong>Rock Paper Scissors</strong> – Game logic with random module
+- ⚙️ <strong> CWRU Bearing Fault Diagnosis</strong> - Bearing fault classification using vibration signals and ML models on the CWRU dataset. (as a part of tata steel internship)
+- 🔩 <strong> Steel Plate Defect Detection</strong> - Multi-label defect detection in steel plates using Random Forest on manufacturing data. (as a part of tata steel internship)
+
+
+
+
 
 ---
 
@@ -39,7 +42,7 @@
 
 **Libraries & Tools:** `Pandas` | `NumPy` | `OpenCV` | `Matplotlib` | `Seaborn` 
 
-**Basics of Web:** `HTML` | `CSS`
+**Basics of Web:** `HTML` | `CSS` | 'JS'
 
 **Softwares:** `Excel` | `VS Code` | `Jupyter` | 'Git' | 'Github'
 
@@ -52,6 +55,7 @@
 - 📍 Jamshedpur, India
 - 📧 srivastavasneha895@gmail.com
 - 👤 [LinkedIn](https://www.linkedin.com/in/sneha-srivastava-00273832b)
+- 🧩 [Linktree](https://linktr.ee/sneha_srivastava.2)
 
 ---
 

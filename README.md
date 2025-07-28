@@ -1,4 +1,6 @@
-<h1 align="center">🌟 Welcome! I'm <span style="color:#ff69b4">Sneha Srivastava</span> 🌟</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=014D4D&center=true&vCenter=true&size=40&width=900&height=60&lines=🌟+WELCOME+!+I'm+SNEHA+SRIVASTAVA" />
+</div>
 
 <p align="center">
   <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V3NTM3enF1bWM4bGo4bjl3dzJkOHpob3JyZWh3cjJkZGg1MDJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height ="200"/>
@@ -58,6 +60,15 @@
 - 🧩 [Linktree](https://linktr.ee/sneha_srivastava.2)
 
 ---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneha842&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha842&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sneha842&theme=tokyonight)
+
 
 <p align="center">
   ✨ <i>"Dream big. Learn bigger. Grow consistently."</i> ✨

@@ -14,8 +14,10 @@
 ---
 
 ### 🚪 Internships
+- 🧠 <strong>AI Intern</strong> @Infosys Springboard *(Active)*
+- Making an **IVR System**.
 
-- 🧠 <strong>Data Science / ML Intern</strong> @ Tata Steel SNTI *(May 2025 – Aug 2025)*  
+- 🧠 <strong>Data Science / ML Intern</strong> @ Tata Steel SNTI *(Completed)*  
   - Worked on **real-world manufacturing datasets** like CWRU bearing dataset & Steel Plate defect prediction.  
   - Applied ML models (SVM, Random Forest, Logistic Regression) for fault detection.  
   - Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib   

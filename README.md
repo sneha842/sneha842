@@ -13,7 +13,8 @@ _Always Curious, Always Learning! 🚀_
 
 ## 🚀 Internships
 
-- 🧠 **AI Intern** @ *Infosys Springboard* — _Working on IVR System (Active)_  
+- 🧠 **Data Analyst Intern** @ *Techcoder Software (OPC) PVT.LTD. * — _Completed_
+  - Build an Amazon Analytics Dashboard using Power BI 
 - 🧠 **Data Science / ML Intern** @ *Tata Steel SNTI* — _Completed_  
   - Worked with **CWRU Bearing** & **Steel Plate Defect** datasets  
   - Built ML models (SVM, Random Forest, Logistic Regression) for fault detection  
@@ -41,7 +42,7 @@ _Always Curious, Always Learning! 🚀_
 ## 🛠️ Skills
 
 **Programming:** Python • Java • C++ • SQL  
-**Libraries & Tools:** Pandas • NumPy • Scikit-learn • TensorFlow (Basics) • Excel • Git • GitHub  
+**Libraries & Tools:** Pandas • NumPy • Scikit-learn • TensorFlow (Basics) • Excel • Git • GitHub • Power BI
 **Web Development:** HTML • CSS • JavaScript  
 **Soft Skills:** Communication • Teamwork • Problem-Solving • Time Management  
 
@@ -66,7 +67,8 @@ Netaji Subhas University, Jamshedpur — *GPA: 8.5/10*
 ## 🏆 Achievements
 
 - 🧩 **Project Admin** — GSSOC 2025 *(FocusVerse)*  
-- 💻 **Open-Source Contributor** — Social Summer of Code 2025  
+- 💻 **Open-Source Contributor** — Social Summer of Code 2025
+- 🏆 **Achieved Best Intern Award** - Data Analytics at Techcoeder Software (OPC) PVT.LTD. 
 
 ---
 

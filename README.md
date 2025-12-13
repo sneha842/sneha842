@@ -42,7 +42,7 @@ _Always Curious, Always Learning! 🚀_
 ## 🛠️ Skills
 
 **Programming:** Python • Java • C++ • SQL  
-**Libraries & Tools:** Pandas • NumPy • Scikit-learn • TensorFlow (Basics) • Excel • Git • GitHub • Power BI
+**Libraries & Tools:** Pandas • NumPy • Scikit-learn • TensorFlow (Basics) • Excel • Git • GitHub • Power BI  
 **Web Development:** HTML • CSS • JavaScript  
 **Soft Skills:** Communication • Teamwork • Problem-Solving • Time Management  
 
